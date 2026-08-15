@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash-thapliyal08/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yash-thapliyal08/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash-thapliyal08/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash-thapliyal08/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yash-thapliyal08/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash-thapliyal08/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yash-thapliyal08/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yash-thapliyal08/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |

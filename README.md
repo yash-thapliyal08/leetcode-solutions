@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/yash-thapliyal08/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash-thapliyal08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash-thapliyal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
 ## Matrix
 |  |
 | ------- |
@@ -31,8 +32,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash-thapliyal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash-thapliyal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

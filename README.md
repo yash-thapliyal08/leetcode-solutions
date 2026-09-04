@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yash-thapliyal08/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash-thapliyal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/yash-thapliyal08/DSA/tree/master/0881-boats-to-save-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/yash-thapliyal08/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yash-thapliyal08/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yash-thapliyal08/DSA/tree/master/0073-set-matrix-zeroes) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/yash-thapliyal08/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |

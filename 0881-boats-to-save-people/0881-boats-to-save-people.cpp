@@ -10,6 +10,9 @@ public:
         int boats = 0;
 
         while (i <= j) {
+            if(i ==j){
+            boats++;
+            break;}
             if (people[i] + people[j] <= limit) {
                 i++;
             }
